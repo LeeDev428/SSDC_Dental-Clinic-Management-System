@@ -1,0 +1,1 @@
+<img src="{{ asset('img/ssdc_logo2.png') }}" width="55px" style="position: absolute; top: 5px; left: 20px; border: 1px solid black; border-radius: 50%;">
